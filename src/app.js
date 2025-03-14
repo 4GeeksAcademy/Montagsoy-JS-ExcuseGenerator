@@ -2,7 +2,7 @@ import "bootstrap";
 import "./style.css";
 
  
-let first= ['herring', 'Serrano Ham', 'smoked salmon', 'snails'];
+let first= ['Herring', 'Serrano ham', 'Smoked salmon', 'Snails'];
 let second = ['strawberry jam', 'Nocilla', 'Marmite', 'honey', 'castor oil'];
 let third= ['watermelon', 'banana', 'durian fruit', 'rotten tomatoes'];
 let fourth= ['salt', 'paprika', 'cinamon', 'coriander', 'sugar'];
