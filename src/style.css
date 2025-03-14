@@ -2,4 +2,28 @@
 
 body{
     background: white;
+    body{
+        background: white;
+    }
+    
+    img{
+        width: 1520%;
+        height: 50%;
+        display: block;
+        margin-top: 40px;
+        margin-bottom: 40px;
+        margin-left: auto;
+        margin-right:auto;  
+       
+    }
+    
+    div1 {
+        text-align: center;
+        font-family: "Times New Roman", Times, serif;
+        
+    }
+    
+    #recipe{
+        font-weight: bold;
+    }
 }
